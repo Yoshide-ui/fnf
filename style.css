@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('https://img.freepik.com/premium-vector/simple-flower-with-purple-background_1046529-91.jpg');
+    font-family: Calistoga;
+}
+
+.container {
+
+    margin-top: 140px;
+    background-color: #E6CCEC;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+    border: 2px solid #C9A6C9;
+}
+
+details{
+    background-color: #D8BFD8 ;
+}
+
+/*button {
+    margin: 10px;
+    background-color: #D8BFD8;
+    color: #4B0082;
+    border: 2px solid #C9A6C9;
+    padding: 8px 16px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background-color: #C9A6C9;
+    border-color: #B892B8;
+}
+
+button:active {
+    background-color: #B892B8;
+    border-color: #A07FA0;
+}*/
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+h1, h3 {
+    color: #4B0082;
+}
+
+h3 {
+    color: #6A2C92;
+}
